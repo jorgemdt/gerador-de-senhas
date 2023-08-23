@@ -28,8 +28,8 @@ function generatePassword(){
     password.innerHTML = pass;
     novaSenha = pass;
 }
-
+/*
 function copyPassword(){
     alert('senha copiada!');
     navigator.clipboard.writeText(novaSenha);
-}
+}*/
